@@ -723,6 +723,7 @@ function DocumentRoot(props) {
                   >
                     <div style={{ marginTop: "10px" }}>
                       <img
+                      alt="profile"
                         src="https://images.unsplash.com/photo-1525735765456-7f67273a9d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
                         style={{ borderRadius: "10px", width: "30px" }}
                       ></img>
@@ -745,6 +746,7 @@ function DocumentRoot(props) {
                 }}
               >
                 <img
+                alt="avatar"
                   src="https://images.unsplash.com/photo-1525735765456-7f67273a9d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
                   style={{
                     borderRadius: "20px",
